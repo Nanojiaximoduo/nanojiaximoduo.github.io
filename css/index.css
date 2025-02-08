@@ -146,12 +146,12 @@ table {
   empty-cells: show;
 }
 table thead {
-  background: #99a9bf;
+  background: rgba(153,169,191,0.1);
 }
 table th,
 table td {
   padding: 0.3rem 0.6rem;
-  border: 1px solid #5f3e27;
+  border: 1px solid #000;
   vertical-align: middle;
 }
 *::selection {

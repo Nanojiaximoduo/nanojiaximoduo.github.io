@@ -58,7 +58,7 @@ body {
   background: #49b1f5;
 }
 *::-webkit-scrollbar-track {
-  background-color: #6a452b;
+  background-color: transparent;
 }
 #web_bg {
   position: fixed;
@@ -151,7 +151,7 @@ table thead {
 table th,
 table td {
   padding: 0.3rem 0.6rem;
-  border: 1px solid #000;
+  border: 1px solid #5f3e27;
   vertical-align: middle;
 }
 *::selection {

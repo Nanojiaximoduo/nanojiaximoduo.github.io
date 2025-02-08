@@ -113,7 +113,7 @@ h6 code {
 hr {
   position: relative;
   margin: 2rem auto;
-  border: 2px dashed #d2ebfd;
+  border: 2px dashed #a4d8fa;
   width: calc(100% - 4px);
 }
 hr:hover:before {
@@ -124,7 +124,7 @@ hr:before {
   top: -10px;
   left: 5%;
   z-index: 1;
-  color: #bfe4fb;
+  color: #80c8f8;
   content: '\f0c4';
   font-size: 20px;
   line-height: 1;
@@ -3198,7 +3198,7 @@ _:future,
   cursor: pointer;
 }
 #pagination .page-number.current {
-  background: #900;
+  background: #00c4b6;
   color: #fff;
   cursor: default;
 }
@@ -3437,7 +3437,7 @@ img {
   overflow-wrap: break-word;
 }
 #article-container a {
-  color: #99a9bf;
+  color: #49b1f5;
 }
 #article-container a:hover {
   text-decoration: underline;

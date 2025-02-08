@@ -2222,11 +2222,11 @@ blockquote footer cite:before {
 #footer-wrap {
   position: relative;
   padding: 2rem 1rem;
-  color: #eee;
+  color: #6a452b;
   text-align: center;
 }
 #footer-wrap a {
-  color: #eee;
+  color: #6a452b;
   cursor: pointer;
 }
 #footer-wrap a:hover {

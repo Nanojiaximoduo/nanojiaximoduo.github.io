@@ -5054,7 +5054,7 @@ blockquote.pullquote.right {
   right: 0;
   bottom: 0;
   left: 0;
-  background-color: rgba(238,238,238,0.7);
+  background-color: rgba(0,0,0,0.7);
   content: '';
 }
 [data-theme='dark'] #page-header > #nav a {

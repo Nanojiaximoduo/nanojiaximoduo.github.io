@@ -2269,7 +2269,7 @@ blockquote footer cite:before {
 #page-header #site_title,
 #page-header #site_subtitle,
 #page-header #scroll_down .scroll-down-effects {
-  color: #eee;
+  color: #6a452b;
   text-align: center;
   text-shadow: 0.1rem 0.1rem 0.2rem rgba(0,0,0,0.15);
   line-height: 1.5;
@@ -2289,7 +2289,7 @@ blockquote footer cite:before {
 }
 #page-header #site_social_icons .social-icon {
   margin: 0 0.5rem;
-  color: #eee;
+  color: #6a452b;
   text-shadow: 0.1rem 0.1rem 0.2rem rgba(0,0,0,0.15);
   font-size: 1rem;
   cursor: pointer;
@@ -2332,7 +2332,7 @@ blockquote footer cite:before {
   bottom: 1.5rem;
   padding: 0 8%;
   width: 100%;
-  color: #eee;
+  color: #6a452b;
   text-align: left;
 }
 #page-header.post-bg #post-info #post-title {
@@ -2362,7 +2362,7 @@ blockquote footer cite:before {
   margin-right: 0.2rem;
 }
 #page-header.post-bg #post-info #post-meta a {
-  color: #eee;
+  color: #6a452b;
   -webkit-transition: all 0.3s ease-out;
   -moz-transition: all 0.3s ease-out;
   -o-transition: all 0.3s ease-out;
@@ -2411,7 +2411,7 @@ _:future,
   font-size: inherit;
 }
 #nav a {
-  color: #eee;
+  color: #6a452b;
 }
 #nav a:hover {
   color: #fff;

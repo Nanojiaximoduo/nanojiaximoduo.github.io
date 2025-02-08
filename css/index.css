@@ -58,7 +58,7 @@ body {
   background: #49b1f5;
 }
 *::-webkit-scrollbar-track {
-  background-color: transparent;
+  background-color: #6a452b;
 }
 #web_bg {
   position: fixed;
@@ -124,7 +124,7 @@ hr:before {
   top: -10px;
   left: 5%;
   z-index: 1;
-  color: #49b1f5;
+  color: #80c8f8;
   content: '\f0c4';
   font-size: 20px;
   line-height: 1;

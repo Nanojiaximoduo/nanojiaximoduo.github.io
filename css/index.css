@@ -2269,9 +2269,9 @@ blockquote footer cite:before {
 #page-header #site_title,
 #page-header #site_subtitle,
 #page-header #scroll_down .scroll-down-effects {
-  color: #fff;
+  color: #6a452b;
   text-align: center;
-  text-shadow: 0.1rem 0.1rem 0.2rem rgba(0,0,0,0);
+  text-shadow: 0.1rem 0.1rem 0.2rem rgba(0,0,0,0.15);
   line-height: 1.5;
 }
 #page-header #site_title {

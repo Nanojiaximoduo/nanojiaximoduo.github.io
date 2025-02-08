@@ -2517,8 +2517,8 @@ _:future,
   padding: 0;
   width: max-content;
   background-color: rgba(255,255,255,0.8);
-  -webkit-box-shadow: 0 5px 20px -4px rgba(0,0,0,0.5);
-  box-shadow: 0 5px 20px -4px rgba(0,0,0,0.5);
+  -webkit-box-shadow: 0 5px 20px -4px rgba(0,0,0,0);
+  box-shadow: 0 5px 20px -4px rgba(0,0,0,0);
   -webkit-animation: sub_menus 0.3s 0.1s ease both;
   -moz-animation: sub_menus 0.3s 0.1s ease both;
   -o-animation: sub_menus 0.3s 0.1s ease both;
